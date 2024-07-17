@@ -1,4 +1,5 @@
 This file was authored by Jan Schreder.
+Link to the file: https://github.com/JaFaSch/Berkeley.5.1/blob/main/Jan_Schreder_Assignment%205.1.ipynb
 
 Problem Statement:
 The dataframe aims to analyze coupon usage across various restaurants. Detailed descriptions follow below.
